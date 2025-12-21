@@ -933,3 +933,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.12.21-20.15.48:403][898]AssetCheck: New page: Asset Save: BP_TransferObject
 [2025.12.21-20.15.48:403][898]LogContentValidation: Display: Validating Blueprint /Game/Workplace/Blueprints/BP_TransferObject.BP_TransferObject
 [2025.12.21-20.15.49:993][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.12.21-20.16.47:922][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.21-20.16.53:724][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.21-20.16.55:234][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.21-20.16.57:065][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.21-20.16.58:839][147]BlueprintLog: New page: Compile BP_TransferObject
+[2025.12.21-20.16.58:877][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.12.21-20.16.59:460][177]LogSavePackage: Moving '../../../../../../WORKPLACE/Mini_laboratory/MEPhI_VR_term_1/Mini_laboratory/Saved/BP_TransferObjectDC4EF8D94906E36CF52EF39C48F79362.tmp' to '../../../../../../WORKPLACE/Mini_laboratory/MEPhI_VR_term_1/Mini_laboratory/Content/Workplace/Blueprints/BP_TransferObject.uasset'
+[2025.12.21-20.16.59:476][177]AssetCheck: New page: Asset Save: BP_TransferObject
+[2025.12.21-20.16.59:476][177]LogContentValidation: Display: Validating Blueprint /Game/Workplace/Blueprints/BP_TransferObject.BP_TransferObject
+[2025.12.21-20.17.00:904][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
