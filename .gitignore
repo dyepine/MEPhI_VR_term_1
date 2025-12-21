@@ -1,0 +1,21 @@
+# Игнорируем временные файлы Unreal Engine внутри папки проекта
+Mini_laboratory/Binaries/
+Mini_laboratory/Intermediate/
+Mini_laboratory/Saved/
+Mini_laboratory/DerivedDataCache/
+Mini_laboratory/Build/
+
+# Игнорируем файлы Visual Studio в корне и в папке проекта
+.vs/
+Mini_laboratory/.vs/
+*.sln
+*.db
+*.opendb
+
+# Игнорируем временные файлы плагинов
+Mini_laboratory/Plugins/*/Intermediate/
+Mini_laboratory/Plugins/*/Binaries/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
