@@ -943,3 +943,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.12.21-20.16.59:476][177]AssetCheck: New page: Asset Save: BP_TransferObject
 [2025.12.21-20.16.59:476][177]LogContentValidation: Display: Validating Blueprint /Game/Workplace/Blueprints/BP_TransferObject.BP_TransferObject
 [2025.12.21-20.17.00:904][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.21-20.18.47:172][894]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.12.21-20.18.47:172][894]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
